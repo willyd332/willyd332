@@ -4,5 +4,7 @@
 
 ---
 
-## 📊 Current Role
+## 📊 Current/Past Roles
 - **Data Scientist at [UPenn's PDRI-DevLab](https://pdri-devlab.upenn.edu/)**
+- **Product Manager at [Resultid](https://www.resultid.ai/)**
+- **Software Engineering Intern at [Viget](https://www.viget.com/)**
