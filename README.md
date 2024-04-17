@@ -5,7 +5,7 @@
 ## Featured Projects & Publications
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td style="width: 70%;">
+    <td style="width: 70%; max-width: 70%;">
       <strong>Acknowledgements Network: Does the hidden college contribute to a gender gap in academic success?</strong><br>
       [Link To Pre-Analysis Plan](https://osf.io/k7w5n)
       [Link To Interactive Network](https://observablehq.com/d/da178e1419cbe842)
