@@ -1,6 +1,8 @@
 # Will Dinneen
 🔗 **LinkedIn**: [linkedin.com/in/willdinneen](https://www.linkedin.com/in/willdinneen)  
 
+
+## Featured Projects & Publications
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="width: 83%;">
