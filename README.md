@@ -8,7 +8,7 @@
       Description of the project goes here. More details can be added to expand the project description and context.
     </td>
     <td style="width: 34%;">
-      <img style="width: 34%; max-width: 34%; height: auto;" src="https://arizent.brightspotcdn.com/d2/5b/e2dfd0ca47e18efc4ef07b966770/2023-best-for-tech-cover-art.jpg" alt="Project Image" style="width:100%;"/>
+      <img style="max-height: 100%; width: auto;" src="https://arizent.brightspotcdn.com/d2/5b/e2dfd0ca47e18efc4ef07b966770/2023-best-for-tech-cover-art.jpg" alt="Project Image" style="width:100%;"/>
     </td>
   </tr>
 </table>
