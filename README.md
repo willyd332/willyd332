@@ -10,7 +10,7 @@
       Description of the project goes here. More details can be added to expand the project description and context.
     </td>
     <td style="width: 30%;">
-      <img style="width: 400px; height: auto;" src="https://github.com/willyd332/willyd332/assets/47681230/09e08718-f0a8-496b-9a33-888c7257624b" alt="Project Image" style="width:100%;"/>
+      <img style="width: 300px; height: auto;" src="https://github.com/willyd332/willyd332/assets/47681230/09e08718-f0a8-496b-9a33-888c7257624b" alt="Project Image" style="width:100%;"/>
     </td>
   </tr>
 </table>
