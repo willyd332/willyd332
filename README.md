@@ -1,8 +1,8 @@
 # Will Dinneen
 🔗 **LinkedIn**: [linkedin.com/in/willdinneen](https://www.linkedin.com/in/willdinneen)  
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr style="border: none;" >
     <td style="border: none; width: 66%;">
       <strong>Test Project Title</strong><br>
       Description of the project goes here. More details can be added to expand the project description and context.
